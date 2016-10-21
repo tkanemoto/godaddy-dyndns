@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -ex
 
 set +x
 OLD_PWD=$PWD
